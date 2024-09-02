@@ -1,0 +1,19 @@
+{
+    "nome": "Kurt Cobain",
+    "album": "Uplugged In Mew York",
+    "Style": "Rock",
+    "price": "R$ 29,90",
+    "image": "<img src='img/nirvana.jpg' width='300px'>",
+
+    "nome2": "Kiss",
+    "album2": "Lick it Up",
+    "Style2": "metal",
+    "price2": "R$ 30,90",
+    "image2": "<img src='img/KISS KISS NOVO-800x800.jpg width='300'>",
+
+    "nome3": "Bon Jovi",
+    "album3": "Marvin",
+    "Style3": "metal pesado",
+    "price3": "R$ 31,90",
+    "image3": "<img src='img/Bon Jovi.png width='300'>"
+}
